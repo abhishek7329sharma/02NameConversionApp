@@ -6,8 +6,8 @@
 
 ### Major Learnings
 
-- Adding useful conversion function in _**prototype**_
-- Targeting elements and saving it into seperate variable
-- Adding event listening on "input" element 
-- Adding event listening on "button" element
-- Assigning back required inputvalue to innerText of respecting string case DOM
+- **Adding** useful conversion function in _**prototype**_
+- **Targeting** elements and saving it into seperate variable
+- **Adding** event listening on "input" element 
+- **Adding** event listening on "button" element
+- **Assigning** back required inputvalue to innerText of respecting string case DOM
