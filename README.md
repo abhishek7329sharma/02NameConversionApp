@@ -10,4 +10,4 @@
 - Targeting elements and saving it into seperate variable
 - Adding event listening on "input" element 
 - Adding event listening on "button" element
-- Assigning back required inputvalue to innerText of DOM
+- Assigning back required inputvalue to innerText of respecting string case DOM
